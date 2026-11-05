@@ -1,0 +1,213 @@
+
+{
+    "cv": {
+      "metadata": {
+        "version": "1.0",
+        "language": "pt-BR",
+        "lastUpdated": "2026-11-05"
+      },
+      "personalInformation": {
+        "fullName": "Yago Henrique Ribeiro Pereira",
+        "professionalTitle": "Desenvolvedor Web Full Stack / Estudante de ADS",
+        "profilePhoto": "",
+        "email": "",
+        "phone": "11 99206 3339",
+        "whatsapp": "11 99206 3339",
+        "location": {
+          "city": "Suzano",
+          "state": "SP",
+          "country": "Brasil",
+          "address": ""
+        },
+        "linkedin": "",
+        "github": "https://github.com/Yago-Henrique",
+        "portfolio": "",
+        "website": ""
+      },
+      "professionalSummary": {
+        "description": "Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Piaget (UniPiaget) com competências sólidas em desenvolvimento front-end e back-end. Experiência prática na criação de interfaces responsivas e dinâmicas utilizando HTML5, CSS3, Bootstrap e JavaScript (DOM), além da manipulação de bancos de dados relacionais com SQLite em Python e MySQL. Vivência acadêmica e prática em metodologias ágeis, modelagem UML e desenvolvimento de projetos de software.",
+        "yearsOfExperience": 1,
+        "mainSpecialization": "Desenvolvimento Web (Front-end & Back-end)",
+        "careerObjective": "Atuar como Desenvolvedor Web / Estagiário em Tecnologia, aplicando conhecimentos em Java, JavaScript, Python e bancos de dados para construir soluções eficientes e evoluir na carreira de desenvolvimento de software."
+      },
+      "professionalExperience": [
+        {
+          "company": "Projetos Acadêmicos & Acadêmicos UniPiaget / SENAI-SP",
+          "position": "Desenvolvedor de Software (Projetos de Estudo)",
+          "employmentType": "Acadêmico / Projeto",
+          "location": "Suzano, SP",
+          "startDate": "2026-02-01",
+          "endDate": "2026-11-05",
+          "current": true,
+          "description": "Desenvolvimento de projetos integradores de software e sistemas web interativos.",
+          "responsibilities": [
+            "Criação e estruturação de interfaces responsivas com HTML5, CSS3 e Bootstrap.",
+            "Manipulação dinâmica do DOM com vanilla JavaScript para cálculos em tempo real e atualização de componentes de UI.",
+            "Modelagem e execução de consultas estruturadas em bancos de dados relacionais (MySQL e SQLite).",
+            "Mapeamento de processos e fluxogramas operacionais para requisitos de software."
+          ],
+          "achievements": [
+            "Desenvolvimento completo de site financeiro interativo em equipe para disciplina de software.",
+            "Criação de sistema web responsivo para orçamento de produtos com desconto dinâmico."
+          ],
+          "technologies": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Bootstrap",
+            "Python",
+            "SQLite",
+            "MySQL",
+            "Git",
+            "Git Bash"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "institution": "Centro Universitário Piaget (UniPiaget)",
+          "degree": "Tecnólogo",
+          "fieldOfStudy": "Análise e Desenvolvimento de Sistemas (ADS)",
+          "level": "Ensino Superior",
+          "startDate": "2026-02-01",
+          "endDate": "2027-12-31",
+          "current": true,
+          "description": "Cursando a graduação tecnológica com foco em engenharia de software, desenvolvimento web, estruturas de dados, banco de dados e metodologias ágeis."
+        }
+      ],
+      "skills": {
+        "technical": [
+          {
+            "name": "HTML5 / CSS3",
+            "level": "Avançado"
+          },
+          {
+            "name": "JavaScript (Vanilla / DOM)",
+            "level": "Intermediário"
+          },
+          {
+            "name": "Bootstrap",
+            "level": "Intermediário"
+          },
+          {
+            "name": "Python",
+            "level": "Intermediário"
+          },
+          {
+            "name": "SQLite / MySQL",
+            "level": "Intermediário"
+          },
+          {
+            "name": "Estruturas de Dados e Algoritmos",
+            "level": "Básico/Intermediário"
+          }
+        ],
+        "behavioral": [
+          "Trabalho em Equipe",
+          "Resolução de Problemas",
+          "Pensamento Analítico",
+          "Capacidade de Aprendizado Rápido",
+          "Visão Empreendedora"
+        ],
+        "tools": [
+          "Visual Studio Code",
+          "Git",
+          "Git Bash",
+          "GitHub"
+        ],
+        "methodologies": [
+          "Scrum / Agile",
+          "Engenharia de Requisitos",
+          "Modelagem UML",
+          "Mapeamento de Fluxogramas de Processo"
+        ]
+      },
+      "languages": [
+        {
+          "name": "Português",
+          "proficiency": "Nativo"
+        },
+        {
+          "name": "Inglês",
+          "proficiency": "Técnico / Leitura"
+        }
+      ],
+      "certifications": [],
+      "projects": [
+        {
+          "name": "Sistema de Orçamento de Produtos Client-Side",
+          "description": "Aplicação web de página única (SPA) responsiva para cálculo de orçamento de produtos com geração dinâmica de itens, cálculo de totais e descontos em tempo real.",
+          "role": "Desenvolvedor Front-end",
+          "technologies": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Bootstrap"
+          ],
+          "url": "",
+          "startDate": "2026-10-01",
+          "endDate": "2026-10-31"
+        },
+        {
+          "name": "Plataforma Web Financeira",
+          "description": "Projeto acadêmico de desenvolvimento de um site financeiro funcional com interface interativa e persistência/gestão de dados.",
+          "role": "Desenvolvedor Full Stack",
+          "technologies": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Python",
+            "SQLite"
+          ],
+          "url": "",
+          "startDate": "2026-09-01",
+          "endDate": "2026-09-30"
+        },
+        {
+          "name": "CodeSculpt Technologies - Plano de Negócios & Pitch",
+          "description": "Elaboração de plano de negócios e pitch de startup SaaS focada em extensão de modelagem visual de dados para VS Code.",
+          "role": "Idealizador / Gestor de Projeto",
+          "technologies": [
+            "UML",
+            "Modelagem de Dados",
+            "Plano de Negócios"
+          ],
+          "url": "",
+          "startDate": "2026-10-01",
+          "endDate": "2026-10-31"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Qualificação / Formação Técnica",
+          "institution": "SENAI-SP",
+          "completionDate": "",
+          "workloadHours": 0
+        }
+      ],
+      "additionalInformation": {
+        "availability": "Imediata",
+        "workModel": "Híbrido / Presencial / Remoto",
+        "travelAvailability": true,
+        "additionalNotes": "Participante de iniciativas regionais de inovação e empreendedorismo (Spark Sebrae, Startup Day Suzano)."
+      },
+      "preferences": {
+        "targetPositions": [
+          "Estagiário de Desenvolvimento de Software",
+          "Desenvolvedor Front-End Junior",
+          "Desenvolvedor Full Stack Junior"
+        ],
+        "targetIndustries": [
+          "Tecnologia da Informação",
+          "Desenvolvimento de Software",
+          "SaaS"
+        ],
+        "preferredLocations": [
+          "Suzano - SP",
+          "Grande São Paulo",
+          "Remoto"
+        ],
+        "preferredWorkModel": "Híbrido / Remoto"
+      }
+    }
+  }
