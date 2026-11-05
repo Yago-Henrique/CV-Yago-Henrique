@@ -44,12 +44,6 @@ body {
   text-align: center;
 }
 
-.profile-img-container {
-  display: flex;
-  justify-content: center;
-  margin-bottom: 14px;
-}
-
 .name {
   font-size: 1.4rem;
   font-weight: 700;
